@@ -1,0 +1,38 @@
+[
+  {
+    "nama_barang": "kopiko",
+    "kode_barang": "001",
+    "jumlah_barang": 1,
+    "tanggal": "2020-02-01"
+  },
+  {
+    "nama_barang": "kopiko",
+    "kode_barang": "001",
+    "jumlah_barang": 4,
+    "tanggal": "2020-02-02"
+  },
+  {
+    "nama_barang": "mentos",
+    "kode_barang": "002",
+    "jumlah_barang": 3,
+    "tanggal": "2020-02-01"
+  },
+  {
+    "nama_barang": "mentos",
+    "kode_barang": "002",
+    "jumlah_barang": 7,
+    "tanggal": "2020-02-05"
+  },
+  {
+    "nama_barang": "relaxa",
+    "kode_barang": "003",
+    "jumlah_barang": 7,
+    "tanggal": "2020-02-01"
+  },
+  {
+    "nama_barang": "relaxa",
+    "kode_barang": "003",
+    "jumlah_barang": 2,
+    "tanggal": "2020-02-02"
+  }
+]

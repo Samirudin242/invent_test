@@ -1,0 +1,2 @@
+SELECT kode_barang, SUM(jumlah_barang), MAX(tanggal) 
+FROM produk GROUP BY kode_barang

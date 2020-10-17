@@ -1,0 +1,16 @@
+Langkah - Langkah untuk meng-upload dan meng-update script di repository github :
+
+A. Mengupload
+    - Pada terminal directory project ketik perintah '$git init', hal ini akan menginisasi git pada directory tersebut
+    - kemudian ketik perintah '$git add .', untuk menambahkan atau memilih file yang akan di masukan ke github
+    - kemudian ketik '$git commit -m "isi pesan"', hal ini akan memberi pesan pada file project kita pada repository
+    - kemudian '$remote add origin https://github.com/linkrepository/', hal ini akan membuat remote connection dengan repository github
+    - '$git push -u origin master', hal ini akan mengupload file pada repository local ke repository github
+
+
+B. Mengupdate
+    - Pada terminal project ketik perintah '$git add .', hal ini akan menambahkan semua perubahan yang terjadi pada file repository
+    - kemudian ketik perintah '$git commit -m "isi pesan"', untuk menjelaskan perubahan apa yang telah di buat pada repository tersebut
+    - kemudian ketik perintah '$git push origin master', untuk mengupload perubahan tersebut ke repository github
+
+
